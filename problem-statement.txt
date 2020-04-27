@@ -1,0 +1,22 @@
+problem-statement.txt
+-----------------------
+
+Please write your code in the folder desiginated code.
+
+Provided is a csv (comma separated value) file appb-list.csv. The  headers for the files are 
+fid, 
+website,
+llp,
+country,
+id,
+status 
+
+
+Read the file in python and list the number of websites in different countries.
+
+your output should be as follows.
+
+CA, 60
+US, 1200
+
+
